@@ -1,34 +1,34 @@
-<image : logo.gif (200x84) =>  Logotype - L'Indépendante >
+<image : logo.gif (200x84) =>  Logotype - L'IndÃ©pendante >
 
-Librairie L'indépendante
+Librairie L'indÃ©pendante
 
     Accueil
-    Présentation
+    PrÃ©sentation
     Informations pratiques
-    Evènements
+    EvÃ©nements
     Nos coups de coeur
 
 
 <image : bandeau.jpg (960x150) => >
 
-La librairie L'indépendante vous accueille tous les jours pour vous offrir le meilleur des livres. Littérature, polars, poésie, philosophie, BD pour tous les âges et toutes les bourses. Venez découvrir notre espace tentaculaires, nos rayonnages multiformes et nos libraires joyeux.
+La librairie L'indÃ©pendante vous accueille tous les jours pour vous offrir le meilleur des livres. LittÃ©rature, polars, poÃ©sie, philosophie, BD pour tous les Ã©ges et toutes les bourses. Venez dÃ©couvrir notre espace tentaculaires, nos rayonnages multiformes et nos libraires joyeux.
 
 
 
-Prochain évènement
+Prochain Ã©vÃ©nement
 
-Lecture post-mortem de L'Odyssée par Homère
-Homère nous fera le plaisir de nous lire l'introduction de son immense poème épique, le dernier vendredi de ce mois.
->> En savoir plus <lien hypertexte vers page événements>
+Lecture post-mortem de L'OdyssÃ©e par HomÃ©re
+HomÃ©re nous fera le plaisir de nous lire l'introduction de son immense poÃ©me Ã©pique, le dernier vendredi de ce mois.
+>> En savoir plus <lien hypertexte vers page Ã©vÃ©nements>
 
 
 
 Lecture du soir
 
-Cette semaine, votre libraire vous invite à lire un aphorisme de Nietzsche au moment du coucher.
+Cette semaine, votre libraire vous invite Ã© lire un aphorisme de Nietzsche au moment du coucher.
 >> En savoir plus <lien hypertexte vers page "Nos coups de coeurs">
 
 
 
 
-Librairie l'indépendante - 26, allée du Sphinx - 45020 Tournepioche 
+Librairie l'indÃ©pendante - 26, allÃ©e du Sphinx - 45020 Tournepioche 
