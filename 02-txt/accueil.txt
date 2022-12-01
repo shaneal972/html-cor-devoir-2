@@ -1,0 +1,34 @@
+<image : logo.gif (200x84) =>  Logotype - L'Indépendante >
+
+Librairie L'indépendante
+
+    Accueil
+    Présentation
+    Informations pratiques
+    Evènements
+    Nos coups de coeur
+
+
+<image : bandeau.jpg (960x150) => >
+
+La librairie L'indépendante vous accueille tous les jours pour vous offrir le meilleur des livres. Littérature, polars, poésie, philosophie, BD pour tous les âges et toutes les bourses. Venez découvrir notre espace tentaculaires, nos rayonnages multiformes et nos libraires joyeux.
+
+
+
+Prochain évènement
+
+Lecture post-mortem de L'Odyssée par Homère
+Homère nous fera le plaisir de nous lire l'introduction de son immense poème épique, le dernier vendredi de ce mois.
+>> En savoir plus <lien hypertexte vers page événements>
+
+
+
+Lecture du soir
+
+Cette semaine, votre libraire vous invite à lire un aphorisme de Nietzsche au moment du coucher.
+>> En savoir plus <lien hypertexte vers page "Nos coups de coeurs">
+
+
+
+
+Librairie l'indépendante - 26, allée du Sphinx - 45020 Tournepioche 
