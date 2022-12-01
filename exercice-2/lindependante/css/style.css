@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    width: 960px;
+}
+
+main{
+    padding-left: 50px;
+}
+
+h2{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+p a{
+    color: #aa3322;
+    text-decoration: none;
+}
+
+footer{
+    width: 960px;
+    height: 75px;
+    margin-top: 80px;
+    background-color: #aaaaaa;
+}
+
+footer p{
+    color: #721717;
+    text-align: center;
+    line-height: 75px;
+}
+
+p a, footer p{
+    font-size: 14px;
+}
