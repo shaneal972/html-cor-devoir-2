@@ -3,118 +3,141 @@
   padding: 0;
 }
 
-body{
-    width: 960px;
-    font-family: Arial, Verdana, sans-serif;
-    padding-top: 15px;
+body {
+  width: 960px;
+  font-family: Arial, Verdana, sans-serif;
+  padding-top: 15px;
 }
 
-.texte, th {
-    font-size: 14px;
-    color: #000;
+.texte,
+th {
+  font-size: 14px;
+  color: #000;
 }
 
 /* Header */
-main, header h1, .logo{
-    padding-left: 50px;
+main,
+header h1,
+.logo {
+  padding-left: 50px;
 }
 
 header h1 {
-    color: #aa3322;
-    font-size: 20px;
-    margin-bottom: 5px;
+  color: #aa3322;
+  font-size: 20px;
+  margin-bottom: 5px;
 }
 
 header ul {
-    padding-top: 5px;
-    padding-bottom: 10px;
-    background-color: #aa3322;
-    font-size: 12px;
-    list-style: none;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: #aa3322;
+  font-size: 12px;
+  list-style: none;
 }
 
 header ul li {
-    padding: 5px 0 5px 50px;
-    border-bottom: 1px dashed #cccccc;
+  padding: 5px 0 5px 50px;
+  border-bottom: 1px dashed #cccccc;
 }
 
-header ul li a {    
-    color: #cccccc;
-    text-decoration: none;
+header ul li a {
+  color: #cccccc;
+  text-decoration: none;
 }
 
 header ul li a:hover {
-    color: white;
+  color: #aaaaaa;
 }
 
 /* Main */
 
-h2{
-    margin-top: 60px;
-    margin-bottom: 20px;
+h2 {
+  margin-top: 60px;
+  margin-bottom: 20px;
 }
 
-p a{
-    color: #aa3322;
-    text-decoration: none;
+p a {
+  color: #aa3322;
+  text-decoration: none;
 }
 
 p a:hover {
-    color: #aaaaaa;
+  color: #aaaaaa;
 }
 
-figure img, figcaption, .plan, .planning {
-    padding: 0 0 20px 0;
+figure img,
+figcaption,
+.plan,
+.planning {
+  padding: 0 0 20px 0;
 }
 
 table {
-    width: 600px;
-    border-collapse: collapse;
+  width: 600px;
+  border-collapse: collapse;
 }
 
-th, td {
-    border: 1px solid #aa3322;
-    height:  25px;
+th,
+td {
+  border: 1px solid #aa3322;
+  height: 25px;
 }
 
 td {
-    font-size: 12px;
-    color: #000;
-    text-align: center;
+  font-size: 12px;
+  color: #000;
+  text-align: center;
 }
 
 address {
-    font-style: normal;
+  font-style: normal;
 }
 
 address span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .fig-evt {
-    padding-left: 0;
-    padding-top: 20px;
+  padding-left: 0;
+  padding-top: 20px;
 }
 
 .fig-evt img {
-    margin-right: 10px;
+  margin-right: 10px;
+}
+
+blockquote {
+  width: 450px;
+  padding-left: 40px;
+  background: #ededed;
+  border: 1px dashed #aa3322;
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.txt-cc {
+  margin: 20px 0;
 }
 
 /* Footer */
 
-footer{
-    width: 960px;
-    height: 75px;
-    margin-top: 80px;
-    background-color: #aaaaaa;
+footer {
+  width: 960px;
+  height: 75px;
+  margin-top: 80px;
+  background-color: #aaaaaa;
 }
 
-footer p{
-    color: #721717;
-    text-align: center;
-    line-height: 75px;
+footer p {
+  color: #721717;
+  text-align: center;
+  line-height: 75px;
 }
 
-p a, footer p{
-    font-size: 14px;
+p a,
+footer p {
+  font-size: 14px;
 }
