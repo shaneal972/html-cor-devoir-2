@@ -7,9 +7,44 @@ body{
     width: 960px;
 }
 
-main{
+/* Header */
+main, header h1, .logo{
     padding-left: 50px;
 }
+
+.logo {
+    padding-top: 15px;
+}
+
+header h1 {
+    color: #aa3322;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+header ul {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: #aa3322;
+    font-size: 12px;
+    list-style: none;
+}
+
+header ul li {
+    padding: 5px 0 5px 50px;
+    border-bottom: 1px dashed #cccccc;
+}
+
+header ul li a {    
+    color: #cccccc;
+    text-decoration: none;
+}
+
+header ul li a:hover {
+    color: white;
+}
+
+/* Main */
 
 h2{
     margin-top: 60px;
