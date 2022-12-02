@@ -9,7 +9,7 @@ body{
     padding-top: 15px;
 }
 
-.texte {
+.texte, th {
     font-size: 14px;
     color: #000;
 }
@@ -59,11 +59,33 @@ p a{
     text-decoration: none;
 }
 
-figure img, figcaption {
+figure img, figcaption, .plan, .planning {
     padding: 0 0 20px 0;
 }
 
+table {
+    width: 600px;
+    border-collapse: collapse;
+}
 
+th, td {
+    border: 1px solid #aa3322;
+    height:  25px;
+}
+
+td {
+    font-size: 12px;
+    color: #000;
+    text-align: center;
+}
+
+address {
+    font-style: normal;
+}
+
+address span {
+    font-weight: bold;
+}
 
 /* Footer */
 
