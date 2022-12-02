@@ -5,15 +5,18 @@
 
 body{
     width: 960px;
+    font-family: Arial, Verdana, sans-serif;
+    padding-top: 15px;
+}
+
+.texte {
+    font-size: 14px;
+    color: #000;
 }
 
 /* Header */
 main, header h1, .logo{
     padding-left: 50px;
-}
-
-.logo {
-    padding-top: 15px;
 }
 
 header h1 {
@@ -55,6 +58,14 @@ p a{
     color: #aa3322;
     text-decoration: none;
 }
+
+figure img, figcaption {
+    padding: 0 0 20px 0;
+}
+
+
+
+/* Footer */
 
 footer{
     width: 960px;
