@@ -59,6 +59,10 @@ p a{
     text-decoration: none;
 }
 
+p a:hover {
+    color: #aaaaaa;
+}
+
 figure img, figcaption, .plan, .planning {
     padding: 0 0 20px 0;
 }
@@ -85,6 +89,15 @@ address {
 
 address span {
     font-weight: bold;
+}
+
+.fig-evt {
+    padding-left: 0;
+    padding-top: 20px;
+}
+
+.fig-evt img {
+    margin-right: 10px;
 }
 
 /* Footer */
